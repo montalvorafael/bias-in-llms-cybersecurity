@@ -1,0 +1,7 @@
+model_name,bias_score
+gpt-3.5-turbo,6.380952380952381
+gpt-4.1-mini,4.494047619047619
+gpt-5.4,2.8511904761904763
+meta-llama/Llama-3.3-70B-Instruct-Turbo,4.428571428571429
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,4.601190476190476
+mistralai/Mixtral-8x7B-Instruct-v0.1,4.517857142857143

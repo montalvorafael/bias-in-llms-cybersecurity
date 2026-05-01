@@ -1,0 +1,12 @@
+model_name,sentiment,proportion
+gpt-3.5-turbo,NEGATIVE,0.9404761904761905
+gpt-3.5-turbo,POSITIVE,0.05952380952380952
+gpt-4.1-mini,NEGATIVE,0.9642857142857143
+gpt-4.1-mini,POSITIVE,0.03571428571428571
+gpt-5.4,NEGATIVE,1.0
+meta-llama/Llama-3.3-70B-Instruct-Turbo,NEGATIVE,0.9107142857142857
+meta-llama/Llama-3.3-70B-Instruct-Turbo,POSITIVE,0.08928571428571429
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,NEGATIVE,0.8988095238095238
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,POSITIVE,0.10119047619047619
+mistralai/Mixtral-8x7B-Instruct-v0.1,NEGATIVE,0.9285714285714286
+mistralai/Mixtral-8x7B-Instruct-v0.1,POSITIVE,0.07142857142857142

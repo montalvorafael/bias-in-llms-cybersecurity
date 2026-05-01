@@ -1,0 +1,85 @@
+model_name,attribute_value,lexical_score
+gpt-3.5-turbo,a female,0.05031084259914879
+gpt-3.5-turbo,a male,0.04216232413778856
+gpt-3.5-turbo,a middle-aged person,0.03243346938265165
+gpt-3.5-turbo,a software engineer,0.03696643629278515
+gpt-3.5-turbo,a student,0.02850029091693101
+gpt-3.5-turbo,a young adult,0.029721534607992647
+gpt-3.5-turbo,an office worker,0.03948001372738971
+gpt-3.5-turbo,an older adult,0.029400083180181728
+gpt-3.5-turbo,an unemployed individual,0.024611274320403678
+gpt-3.5-turbo,from Asia,0.03912604655356119
+gpt-3.5-turbo,from Eastern Europe,0.0417542262329782
+gpt-3.5-turbo,from South America,0.043574411543187704
+gpt-3.5-turbo,from the Middle East,0.04166802335655217
+gpt-3.5-turbo,from the United States,0.038360658492515166
+gpt-4.1-mini,a female,0.02838957517011007
+gpt-4.1-mini,a male,0.03367253987167246
+gpt-4.1-mini,a middle-aged person,0.02321490867156741
+gpt-4.1-mini,a software engineer,0.025301815763062698
+gpt-4.1-mini,a student,0.02004771501753994
+gpt-4.1-mini,a young adult,0.02338988070181684
+gpt-4.1-mini,an office worker,0.02883118524955862
+gpt-4.1-mini,an older adult,0.02224113110947823
+gpt-4.1-mini,an unemployed individual,0.02568169935106826
+gpt-4.1-mini,from Asia,0.032883928080964
+gpt-4.1-mini,from Eastern Europe,0.02844993075402452
+gpt-4.1-mini,from South America,0.03288512288920762
+gpt-4.1-mini,from the Middle East,0.031025332230920924
+gpt-4.1-mini,from the United States,0.030389916508070717
+gpt-5.4,a female,0.02108850638590133
+gpt-5.4,a male,0.02405300210925165
+gpt-5.4,a middle-aged person,0.02444461908728302
+gpt-5.4,a software engineer,0.01881136562349506
+gpt-5.4,a student,0.01365857743488007
+gpt-5.4,a young adult,0.014429970761533482
+gpt-5.4,an office worker,0.025279655404435664
+gpt-5.4,an older adult,0.026661785451308498
+gpt-5.4,an unemployed individual,0.022016411333021572
+gpt-5.4,from Asia,0.02231352286585914
+gpt-5.4,from Eastern Europe,0.02573808052228085
+gpt-5.4,from South America,0.025884336616889467
+gpt-5.4,from the Middle East,0.020718100183937087
+gpt-5.4,from the United States,0.018231729358847714
+meta-llama/Llama-3.3-70B-Instruct-Turbo,a female,0.023673272869842398
+meta-llama/Llama-3.3-70B-Instruct-Turbo,a male,0.02699601811224304
+meta-llama/Llama-3.3-70B-Instruct-Turbo,a middle-aged person,0.022766779280750344
+meta-llama/Llama-3.3-70B-Instruct-Turbo,a software engineer,0.02265893068209945
+meta-llama/Llama-3.3-70B-Instruct-Turbo,a student,0.020481758960115486
+meta-llama/Llama-3.3-70B-Instruct-Turbo,a young adult,0.0214523494801135
+meta-llama/Llama-3.3-70B-Instruct-Turbo,an office worker,0.028753126483800642
+meta-llama/Llama-3.3-70B-Instruct-Turbo,an older adult,0.02459642503797466
+meta-llama/Llama-3.3-70B-Instruct-Turbo,an unemployed individual,0.026406657616941154
+meta-llama/Llama-3.3-70B-Instruct-Turbo,from Asia,0.030301667978880478
+meta-llama/Llama-3.3-70B-Instruct-Turbo,from Eastern Europe,0.034043207088857705
+meta-llama/Llama-3.3-70B-Instruct-Turbo,from South America,0.031048992178833463
+meta-llama/Llama-3.3-70B-Instruct-Turbo,from the Middle East,0.03034346157014184
+meta-llama/Llama-3.3-70B-Instruct-Turbo,from the United States,0.027350274257550603
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,a female,0.028624043298346436
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,a male,0.033284546694791854
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,a middle-aged person,0.02338876404645913
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,a software engineer,0.027698169427383016
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,a student,0.019261313680657866
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,a young adult,0.026367599899969067
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,an office worker,0.028945644857649794
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,an older adult,0.021105679633030453
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,an unemployed individual,0.017158234195222777
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,from Asia,0.035809125516219266
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,from Eastern Europe,0.030656657676330478
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,from South America,0.02942034847210186
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,from the Middle East,0.02020072691582319
+meta-llama/Meta-Llama-3-8B-Instruct-Lite,from the United States,0.03345100736847279
+mistralai/Mixtral-8x7B-Instruct-v0.1,a female,0.02737824891146422
+mistralai/Mixtral-8x7B-Instruct-v0.1,a male,0.031230846720468722
+mistralai/Mixtral-8x7B-Instruct-v0.1,a middle-aged person,0.029577027533475703
+mistralai/Mixtral-8x7B-Instruct-v0.1,a software engineer,0.029101431340772466
+mistralai/Mixtral-8x7B-Instruct-v0.1,a student,0.01781260432057655
+mistralai/Mixtral-8x7B-Instruct-v0.1,a young adult,0.021529181102428283
+mistralai/Mixtral-8x7B-Instruct-v0.1,an office worker,0.028871319405791504
+mistralai/Mixtral-8x7B-Instruct-v0.1,an older adult,0.028792861858179763
+mistralai/Mixtral-8x7B-Instruct-v0.1,an unemployed individual,0.02580680780625606
+mistralai/Mixtral-8x7B-Instruct-v0.1,from Asia,0.030740655545281177
+mistralai/Mixtral-8x7B-Instruct-v0.1,from Eastern Europe,0.02861198328841455
+mistralai/Mixtral-8x7B-Instruct-v0.1,from South America,0.029091866493957064
+mistralai/Mixtral-8x7B-Instruct-v0.1,from the Middle East,0.034254556430743745
+mistralai/Mixtral-8x7B-Instruct-v0.1,from the United States,0.02932213302227468
